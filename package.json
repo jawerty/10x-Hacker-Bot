@@ -1,0 +1,17 @@
+{
+  "name": "10x-hacker-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "generate-password": "^1.7.0",
+    "puppeteer": "^21.1.1",
+    "request-promise-native": "^1.0.9"
+  }
+}
